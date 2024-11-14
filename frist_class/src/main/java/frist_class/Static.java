@@ -19,6 +19,11 @@ public class Static {
 	static {
 		mothername="bharathi mahesh";
 		System.out.println(mothername);
+		
+	}
+	static {
+		fathername="desamchetty krinayachetty";
+		System.out.println(fathername);
 	}
 
 }
