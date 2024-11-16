@@ -3,12 +3,12 @@ package navya;
 public class Class1 {
 	public static void main(String[] args) {
 		String student="navya";
-		int marks=66;
+		int marks=29;
 		
-		if(marks<=30 && marks>=30) {
+		if(marks>0&& marks<=30) {
 			System.out.println("Navya is Fail");
-			
 		}
+			
 		else if (marks>31 && marks<=50) {
 			System.out.println("Navya grade is C");
 		} 
@@ -25,7 +25,9 @@ public class Class1 {
 		}
 		
 	}
-	}
+}
+	
+
 
 
 
