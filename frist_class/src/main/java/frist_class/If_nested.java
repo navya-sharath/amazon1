@@ -1,9 +1,9 @@
-package amazon_project;
+package frist_class;
 
-public class Nested {
+public class If_nested {
 	public static void main(String[] args) {
 		String student="navya";
-		int marks=29;
+		int marks=78;
 		
 		if(marks>0&& marks<=30) {
 			System.out.println("Navya is Fail");
