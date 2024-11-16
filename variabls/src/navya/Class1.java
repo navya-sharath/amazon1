@@ -4,7 +4,7 @@ public class Class1 {
 	public static void main(String[] args) {
 		String student="navya";
 		int marks=66;
-		//if(student.equalsIgnoreCase("")) {
+		
 		if(marks<=30 && marks>=30) {
 			System.out.println("Navya is Fail");
 			
@@ -26,6 +26,6 @@ public class Class1 {
 		
 	}
 	}
-//}
+
 
 
