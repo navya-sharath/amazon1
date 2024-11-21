@@ -24,6 +24,10 @@ public class Parameterised {
 			System.out.println(m-n);
 			
 		}
+		public static void parameterized(String name,String animal) {
+			System.out.println(name);
+			System.out.println(animal);
+		}
 		
 		
 	public static void main(String[] args) {
@@ -33,6 +37,9 @@ public class Parameterised {
 		pt.nonstatic_nonparameterized();
 		Parameterised pa=new Parameterised();
 		pa.nonstatic_paramereter(10, 50);
+		Parameterised.parameterized("vidhaan","shimba");
+		
+		
 		
 		
 	}

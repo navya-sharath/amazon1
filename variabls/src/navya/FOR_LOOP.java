@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	System.out.println("1 to 20 even number");
 	
 	for(int i=0;i<20;i+=2) {
-	boolean result=i%2==0;
+	//result=i%2==0;
 	
 		
 		 
