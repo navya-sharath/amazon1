@@ -6,7 +6,7 @@ public class TEST3 {
 	
  
 	 
-	  for(int i=1;i<=20;i+=1) {
+	  for(int i=1;i<=20;i+=2) {
 		 // boolean result=i%2!=0;
 		  System.out.println(i);
 		  }
@@ -30,5 +30,5 @@ public class TEST3 {
 		
 	
 
-	}
+	
 
