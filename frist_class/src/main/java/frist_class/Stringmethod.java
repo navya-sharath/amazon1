@@ -2,7 +2,7 @@ package frist_class;
 
 public class Stringmethod {
 	public static void main(String[] args) {
-		/*String name="navya";
+		String name="navya";
 		String uppercase=name.toUpperCase();
 		System.out.println(name.toUpperCase());
 		
@@ -27,16 +27,12 @@ public class Stringmethod {
 		String brand="Tiffiny&co";
 		String bands="tiffINY&CO";
 		boolean b = brand.equalsIgnoreCase("Tiffiny&co");
-		System.out.println(b);*/
+		System.out.println(b);
 		
 		
 		
 		
 	}
 
-	private static boolean equalsIgnoreCase(String brand) {
-		// TODO Auto-generated method stub
-		return false;
-	}
 
 }

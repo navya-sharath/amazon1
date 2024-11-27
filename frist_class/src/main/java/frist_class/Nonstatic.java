@@ -5,6 +5,7 @@ public class Nonstatic {
 	public static void main(String[] args) {
 		Nonstatic nst=new Nonstatic();
 		nst.a=30;
+		nst.
 		System.out.println(nst.a);
 		Nonstatic nst2=new Nonstatic();
 		nst2.a=45;

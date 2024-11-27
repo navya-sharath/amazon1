@@ -15,7 +15,7 @@ public class Public {
 		pu3.a=35;
 		System.out.println(pu3.a);
 		
-		
+		Public.a
 		
 		
 		
