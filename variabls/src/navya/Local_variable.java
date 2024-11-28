@@ -3,7 +3,7 @@ package navya;
 public class Local_variable {
 	
 	
-	public static void main(String[] args) {
+	 static void main(String[] args)public {
 		/*int age;
 		age=25;
 		double height = 5.5;
