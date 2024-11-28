@@ -31,11 +31,8 @@ public class Stringmethod {
 		
 		
 		
+		
 	}
 
-	private static boolean equalsIgnoreCase(String brand) {
-		// TODO Auto-generated method stub
-		return false;
-	}
 
 }

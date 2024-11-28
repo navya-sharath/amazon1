@@ -4,14 +4,17 @@ public class Static {
 	static String name;
 	static String mothername;
 	static String fathername;
+	static String husname;
 	public static void main(String[] args) {
 	 Static.name="navya krishna ";
-	 System.out.println(Static.name);
+	 System.out.println(name);
 	 Static.name="deshamchetty mahesh";
 	 Static.mothername="bharathi";
-	 System.out.println(Static.mothername);
+	 System.out.println(mothername);
 	 Static.fathername="mahesh";
-	 System.out.println(Static.fathername);
+	 System.out.println(fathername);
+	 Static.husname="sharath";
+	 System.out.println(husname);
 	
 	 
 	

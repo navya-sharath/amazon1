@@ -1,10 +1,9 @@
-package navya;
+package frist_class;
 
-public class Class1 {
-
+public class If_nested {
 	public static void main(String[] args) {
 		String student="navya";
-		int marks=29;
+		int marks=99;
 		
 		if(marks>0&& marks<=30) {
 			System.out.println("Navya is Fail");
@@ -26,11 +25,6 @@ public class Class1 {
 		}
 		
 	}
-
-
-}
-	
-
-
+	}
 
 
