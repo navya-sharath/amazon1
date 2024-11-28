@@ -5,7 +5,7 @@ public class IFNESTED {
 		String student="navya";
 		int marks=31;
 		
-		if(marks>0&& marks<=30) {
+		if(marks>0 && marks<=30) {
 			System.out.println("Navya is Fail");
 		}
 			
