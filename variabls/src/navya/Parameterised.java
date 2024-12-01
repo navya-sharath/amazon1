@@ -37,6 +37,7 @@ public class Parameterised {
 		pt.nonstatic_nonparameterized();
 		Parameterised pa=new Parameterised();
 		pa.nonstatic_paramereter(10, 50);
+		p
 		Parameterised.parameterized("vidhaan","shimba");
 		
 		

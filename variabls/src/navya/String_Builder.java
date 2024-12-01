@@ -1,10 +1,13 @@
 package navya;
 
-public class String_Builder {
+import navyakrishna.Practice_Acessmodifers;
+
+public class String_Builder extends Practice_Acessmodifers{
 	public static void main(String[] args) {
 		String str="madam";
 			
 			StringBuilder bf = new StringBuilder(str);
+			bf.
 			String name=bf.reverse().toString();
 			 
 			 if(str.equals(name)) {
@@ -20,7 +23,7 @@ public class String_Builder {
 			 StringBuilder fb=new StringBuilder(name);
 			
 			 System.out.println( fb.reverse());
-			 
+			
 			 if(name.equals(fb)) {
 				 System.out.println("sir is not palindrome");
 				 
